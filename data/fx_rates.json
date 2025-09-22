@@ -1,0 +1,14 @@
+[
+  {
+    "pair": "EUR/USD",
+    "rate": 1.0621
+  },
+  {
+    "pair": "EUR/GBP",
+    "rate": 0.862
+  },
+  {
+    "pair": "GBP/USD",
+    "rate": 1.2439
+  }
+]
